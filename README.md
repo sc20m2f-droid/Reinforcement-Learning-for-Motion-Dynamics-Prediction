@@ -1,1 +1,1 @@
-The dataset comes from the resources provided by the project https://portal.nersc.gov/project/crcns/download/dream
+The dataset comes from the ostry dataset in the resource https://portal.nersc.gov/project/crcns/download/dream provided by the project. Since GitHub cannot provide large files, I provide the URL here.
